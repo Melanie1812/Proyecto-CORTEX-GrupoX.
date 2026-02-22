@@ -1,5 +1,5 @@
 # Proyecto-CORTEX-AteneaVirtualAssistent
-# Mission: Brindar apoyo emocional accesible, seguro y empàtico meidante la tecnologia, ayudando a las personas a comprender  sus emociones, manejar estrès y fortalecer su bienestar mental.
+# Mission: Crear un lugar de confianza donde las personas puedan escribir lo que sienten, desahogarse y recibir apoyo sin miedo a ser juzgadas.
 # Integrantes: Kendry Daniela Acevedo Leal, Melanie Lizeth Ramirez Olarte
-#1.perfil del agente 
-![Proyecto-CORTEX-AteneaVirtualAssistent (1)](https://github.com/user-attachments/assets/bd3a11d5-6a06-48e6-be1e-c82df81a85ff)
+#1.perfil del agente ![Proyecto-CORTEX-AteneaVirtualAssistent](https://github.com/user-attachments/assets/d5a18d61-ebd5-442c-8d96-066f380bc5ea)
+
