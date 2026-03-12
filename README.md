@@ -16,5 +16,6 @@ La emoción es muy importante para Atenea, porque le permite entender cómo se s
 Este le permite analizar lo que el usuario expresa, comprender sus problemas y ofrecer respuestas utiles y responsables.
 Aunque es muy importante, no es perfecto porque atenea no reemplaza a un profesional y, en algunos casos, sun funcion  principal es escuchar y acompañar.
 <img width="230" height="381" alt="image" src="https://github.com/user-attachments/assets/3a93259a-91a5-468e-8ae7-f73949ec3633" />
+
 #FASE 2 SEMANA 1 - DIAGRAMA DE FLUJO
 ![Proyecto-CORTEX-AteneaVirtualAssistent](https://github.com/user-attachments/assets/a6b2a3b8-041a-461f-8c33-68cc3797cc9b)
