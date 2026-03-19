@@ -19,3 +19,6 @@ Aunque es muy importante, no es perfecto porque atenea no reemplaza a un profesi
 
 #FASE 2 SEMANA 1 - DIAGRAMA DE FLUJO
 ![Proyecto-CORTEX-AteneaVirtualAssistent](https://github.com/user-attachments/assets/a6b2a3b8-041a-461f-8c33-68cc3797cc9b)
+
+#FASE 2 SEMANA 5 - POST ITS
+<img width="715" height="744" alt="image" src="https://github.com/user-attachments/assets/c774b9c5-662b-4ec4-a638-eed591582032" />
