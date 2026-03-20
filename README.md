@@ -17,8 +17,8 @@ Este le permite analizar lo que el usuario expresa, comprender sus problemas y o
 Aunque es muy importante, no es perfecto porque atenea no reemplaza a un profesional y, en algunos casos, sun funcion  principal es escuchar y acompañar.
 <img width="230" height="381" alt="image" src="https://github.com/user-attachments/assets/3a93259a-91a5-468e-8ae7-f73949ec3633" />
 
-#FASE 2 SEMANA 1 - DIAGRAMA DE FLUJO
+#DIAGRAMA DE FLUJO
 ![Proyecto-CORTEX-AteneaVirtualAssistent](https://github.com/user-attachments/assets/a6b2a3b8-041a-461f-8c33-68cc3797cc9b)
 
-#FASE 2 SEMANA 5 - POST ITS
+#Sentidos y interpretacion a ellos de Atenea
 <img width="715" height="744" alt="image" src="https://github.com/user-attachments/assets/c774b9c5-662b-4ec4-a638-eed591582032" />
