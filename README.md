@@ -22,3 +22,23 @@ Aunque es muy importante, no es perfecto porque atenea no reemplaza a un profesi
 
 #Sentidos y interpretacion a ellos de Atenea
 <img width="715" height="744" alt="image" src="https://github.com/user-attachments/assets/c774b9c5-662b-4ec4-a638-eed591582032" />
+#El Filtro de Atención
+
+Atenea utiliza un sistema de atención selectiva para evitar la sobrecarga de información y enfocarse en lo más importante del mensaje del usuario.
+
+## La definición del "ruido"
+Se considera "ruido" toda información que no aporta al estado emocional o intención del usuario, como:
+- Saludos largos
+- Palabras de relleno (jajaja, mmm, etc.)
+- Repeticiones
+- Información sin contenido emocional relevante
+
+## Reglas de Atención
+
+- Si el mensaje contiene ruido → se filtra y se ignora esa parte.
+- Si el mensaje es muy largo (más de 500 palabras) → Atenea prioriza las palabras clave y la última parte del mensaje.
+- Si el mensaje contiene emociones → se le da prioridad en el análisis.
+- Si el usuario solo se está desahogando → Atenea responde con apoyo, no con soluciones.
+- Si el mensaje es confuso → Atenea se enfoca en la intención principal.
+
+Gracias a estas reglas, Atenea puede comprender mejor al usuario sin saturarse y responder de forma clara, empática y útil.
