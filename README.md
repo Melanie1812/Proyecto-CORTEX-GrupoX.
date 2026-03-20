@@ -24,7 +24,7 @@ Aunque es muy importante, no es perfecto porque atenea no reemplaza a un profesi
 <img width="715" height="744" alt="image" src="https://github.com/user-attachments/assets/c774b9c5-662b-4ec4-a638-eed591582032" />
 #El Filtro de Atención
 
-Atenea utiliza un sistema de atención selectiva para evitar la sobrecarga de información y enfocarse en lo más importante del mensaje del usuario.
+##Atenea utiliza un sistema de atención selectiva para evitar la sobrecarga de información y enfocarse en lo más importante del mensaje del usuario.
 
 ## La definición del "ruido"
 Se considera "ruido" toda información que no aporta al estado emocional o intención del usuario, como:
