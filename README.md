@@ -44,22 +44,22 @@ Se considera "ruido" toda información que no aporta al estado emocional o inten
 Gracias a estas reglas, Atenea puede comprender mejor al usuario sin saturarse y responder de forma clara, empática y útil.
 
 ## Arquitectura de Memoria
-Tipo de Memoria -	Categoría de Datos -	Descripción -	Ejemplo de Entrada
+Tipo de Memoria  	  Categoría de Datos                	Descripción                                      Ejemplo de Entrada
 
-Semántica (LTM) -	Trastornos Psicológicos	- Definiciones y características de trastornos - "Ansiedad Generalizada: preocupación excesiva"
+Semántica (LTM)  	Trastornos Psicológicos	   Definiciones y características de trastornos       "Ansiedad Generalizada: preocupación excesiva"
 
-Semántica (LTM)	- Técnicas Terapéuticas -	Métodos y enfoques de intervención psicológica -	"TCC: reestructuración de pensamientos"
+Semántica (LTM)	  Técnicas Terapéuticas 	   Métodos y enfoques de intervención psicológica 	   "TCC: reestructuración de pensamientos"
 
-Semántica (LTM)	- Teorías Psicológicas - Modelos explicativos del comportamiento humano	- "Freud: teoría psicoanalítica"
+Semántica (LTM)	  Teorías Psicológicas       Modelos explicativos del comportamiento humano	      "Freud: teoría psicoanalítica"
 
-Semántica (LTM)	- Emociones -Clasificación y descripción de emociones - "Tristeza: respuesta a pérdida"
+Semántica (LTM)	  Emociones                  Clasificación y descripción de emociones             "Tristeza: respuesta a pérdida"
 
-Semántica (LTM)	- Evaluaciones Psicológicas -	Tipos de pruebas y escalas - "Inventario de Depresión de Beck"
+Semántica (LTM)	 Evaluaciones Psicológicas 	 Tipos de pruebas y escalas                           "Inventario de Depresión de Beck"
 
-Episódica (LTM) -	Perfil de Usuario -	Datos relevantes del usuario - "Nombre: Ana, Edad: 25"
+Episódica (LTM)  	Perfil de Usuario 	        Datos relevantes del usuario                          "Nombre: Ana Edad: 25"
 
-Episódica (LTM) -	Historial Emocional -	Registro de estados emocionales del usuario	- "Se siente ansiosa por trabajo"
+Episódica (LTM)  	Historial Emocional 	     Registro de estados emocionales del usuario	        "Se siente ansiosa por trabajo"
 
-Episódica (LTM) -	Sesiones Previas -	Resumen de interacciones pasadas - "Habló sobre estrés académico"
+Episódica (LTM)  	Sesiones Previas 	         Resumen de interacciones pasadas                        "Habló sobre estrés académico"
 
-Episódica (LTM) -	Objetivos del Usuario -	Metas terapéuticas del usuario -	"Reducir ansiedad social"
+Episódica (LTM)  	Objetivos del Usuario      Metas terapéuticas del usuario 	                      "Reducir ansiedad social"
