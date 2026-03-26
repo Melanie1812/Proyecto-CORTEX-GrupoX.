@@ -47,11 +47,19 @@ Gracias a estas reglas, Atenea puede comprender mejor al usuario sin saturarse y
 Tipo de Memoria -	Categoría de Datos -	Descripción -	Ejemplo de Entrada
 
 Semántica (LTM) -	Trastornos Psicológicos	- Definiciones y características de trastornos - "Ansiedad Generalizada: preocupación excesiva"
+
 Semántica (LTM)	- Técnicas Terapéuticas -	Métodos y enfoques de intervención psicológica -	"TCC: reestructuración de pensamientos"
+
 Semántica (LTM)	- Teorías Psicológicas - Modelos explicativos del comportamiento humano	- "Freud: teoría psicoanalítica"
-Semántica (LTM)	- Emociones-Clasificación y descripción de emociones - "Tristeza: respuesta a pérdida"
+
+Semántica (LTM)	- Emociones -Clasificación y descripción de emociones - "Tristeza: respuesta a pérdida"
+
 Semántica (LTM)	- Evaluaciones Psicológicas -	Tipos de pruebas y escalas - "Inventario de Depresión de Beck"
+
 Episódica (LTM) -	Perfil de Usuario -	Datos relevantes del usuario - "Nombre: Ana, Edad: 25"
+
 Episódica (LTM) -	Historial Emocional -	Registro de estados emocionales del usuario	- "Se siente ansiosa por trabajo"
+
 Episódica (LTM) -	Sesiones Previas -	Resumen de interacciones pasadas - "Habló sobre estrés académico"
+
 Episódica (LTM) -	Objetivos del Usuario -	Metas terapéuticas del usuario -	"Reducir ansiedad social"
