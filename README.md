@@ -44,7 +44,7 @@ Se considera "ruido" toda información que no aporta al estado emocional o inten
 Gracias a estas reglas, Atenea puede comprender mejor al usuario sin saturarse y responder de forma clara, empática y útil.
 
 ## Arquitectura de Memoria
-#Tipo de Memoria  #Categoría de Datos                	#Descripción                                      #Ejemplo de Entrada
+##Tipo de Memoria  ##Categoría de Datos                ##Descripción                                     ##Ejemplo de Entrada
 
 Semántica (LTM)  	Trastornos Psicológicos	   Definiciones y características de trastornos       "Ansiedad Generalizada: preocupación excesiva"
 
