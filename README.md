@@ -56,3 +56,17 @@ Gracias a estas reglas, Atenea puede comprender mejor al usuario sin saturarse y
 | Episódica (LTM) | Historial Emocional      | Registro de estados emocionales del usuario              | Se siente ansiosa por trabajo                |
 | Episódica (LTM) | Sesiones Previas         | Resumen de interacciones pasadas                         | Habló sobre estrés académico                 |
 | Episódica (LTM) | Objetivos del Usuario    | Metas terapéuticas del usuario                           | Reducir ansiedad social                      |
+
+## Flujo Lógico de Recuperacion
+
+Cuando el usuario envía un mensaje, Atenea analiza su intención y estado emocional.  
+Si necesita información previa, busca en su memoria a largo plazo (LTM) y recupera datos relevantes del usuario.
+Luego combina esa información con el contexto actual para generar una respuesta coherente y personalizada.
+
+## Regla del Olvido
+Atenea no elimina la información por tiempo, sino por límite de capacidad.
+- Si la memoria de trabajo alcanza su límite (7 mensajes) → se eliminan los mensajes más antiguos.
+- La información importante puede almacenarse en la memoria a largo plazo.
+- La información irrelevante no se guarda.
+Esto permite que Atenea mantenga conversaciones coherentes sin saturarse, funcionando de forma similar a un chat inteligente.
+
