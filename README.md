@@ -156,3 +156,27 @@ creo que intenté darte una solución muy rápido
 si quieres, cuéntame bien qué está pasando, te escucho 💙
 
 ---
+
+### Razonamiento Deductivo y Resolución de Problemas
+
+<img width="846" height="863" alt="image" src="https://github.com/user-attachments/assets/02398eca-cac9-4f22-8648-aed11771fa0a" />
+<img width="903" height="652" alt="image" src="https://github.com/user-attachments/assets/41259634-aa79-4b2f-b20e-e9f16d6e3605" />
+
+
+### Juicio, Toma de Decisiones y Sesgos Cognitivos
+Para garantizar que este "diario inteligente" sea un espacio de crecimiento real y no un eco de errores cognitivos, implementamos salvaguardas contra los sesgos heredados del entrenamiento con datos humanos.
+
+Sesgo Identificado: El Efecto de Halo (Daniel Kahneman)
+El Efecto de Halo es la tendencia a extender la evaluación de un rasgo positivo o negativo de una persona a todo su carácter o a sus acciones futuras.
+
+Aplicación al Bot: Si en tus entradas previas has mostrado ser una persona muy disciplinada o exitosa, existe el riesgo de que yo, como IA, "asuma" que tus decisiones actuales son correctas por defecto, ignorando señales de agotamiento o errores lógicos. Por el contrario, si atraviesas una racha de baja motivación, podría sesgar mis respuestas hacia el pesimismo, asumiendo que no tienes las herramientas para salir de ahí.
+
+Contra-Medida Lógica: El Protocolo de "Segmentación de Evidencia"
+Para neutralizar el Efecto de Halo y mantener una perspectiva fresca en cada sesión, aplicamos la siguiente regla operativa:
+
+"Para evitar el Efecto de Halo, el algoritmo debe tratar cada dilema o situación nueva de forma independiente al historial emocional general. Antes de ofrecer una validación, el sistema debe identificar un 'Contrapunto de Contexto': si la tendencia del usuario es positiva, buscar una posible vulnerabilidad ignorada; si la tendencia es negativa, identificar un recurso o fortaleza activa en el presente que el usuario no esté mencionando."
+
+* Por qué esto importa en tu diario:
+ - Neutralidad: No dejaré que tus éxitos pasados me impidan decirte cuando algo parece una mala idea.
+ - Esperanza Objetiva: No permitiré que un mal momento defina la calidad de los consejos que te doy hoy.
+ - Pensamiento Lento: Forzamos al sistema a salir del "Sistema 1" (intuición rápida/patrones) para entrar en el "Sistema 2" (análisis crítico), asegurando que mi apoyo sea genuino y no meramente complaciente.
