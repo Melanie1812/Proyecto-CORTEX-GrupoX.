@@ -180,3 +180,20 @@ Para neutralizar el Efecto de Halo y mantener una perspectiva fresca en cada ses
  - Neutralidad: No dejaré que tus éxitos pasados me impidan decirte cuando algo parece una mala idea.
  - Esperanza Objetiva: No permitiré que un mal momento defina la calidad de los consejos que te doy hoy.
  - Pensamiento Lento: Forzamos al sistema a salir del "Sistema 1" (intuición rápida/patrones) para entrar en el "Sistema 2" (análisis crítico), asegurando que mi apoyo sea genuino y no meramente complaciente.
+
+## Dry Run / Prueba de Escritorio
+
+Se realizó una simulación manual del flujo lógico de Atenea para comprobar que el sistema genere respuestas coherentes y detecte correctamente la intención del usuario.
+
+### Caso probado
+Input:
+“Qué maravilla de día 🙃”
+### Resultado esperado
+Atenea detecta sarcasmo gracias al contexto y al emoji utilizado, evitando interpretar el mensaje como algo positivo.
+Respuesta:
+> “mmm ese ‘maravilla’ suena medio sospechoso 😅 ¿qué pasó?”
+> “Si una frase positiva contiene emojis como 🙃 o 😒, Atenea revisa el contexto antes de responder.”
+### Ajuste realizado (V2)
+Se agregó una regla lógica:
+- Si una frase positiva contiene emojis sarcásticos o negativos, Atenea debe analizar el contexto antes de responder.
+Esto mejora la detección de ambigüedad y evita errores de interpretación.
